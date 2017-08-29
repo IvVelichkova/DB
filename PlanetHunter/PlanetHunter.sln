@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PlanetHunter.App", "PlanetHunter.App\PlanetHunter.App.csproj", "{9C6CDD77-6575-4B81-80F5-CC72E750B167}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PlanetHunter.Data", "PlanetHunter.Data\PlanetHunter.Data.csproj", "{DBDB568B-A140-481D-93C0-A4DD45E5873E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PlanetHunter.Models", "PlanetHunter.Models\PlanetHunter.Models.csproj", "{9F7011E8-B3A4-416F-89B1-FE6999DFF3DC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PlanetHunte.ImportJson", "PlanetHunte.ImportJson\PlanetHunte.ImportJson.csproj", "{2A66A165-A548-47D9-922A-172E5320D3BB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9C6CDD77-6575-4B81-80F5-CC72E750B167}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9C6CDD77-6575-4B81-80F5-CC72E750B167}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9C6CDD77-6575-4B81-80F5-CC72E750B167}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9C6CDD77-6575-4B81-80F5-CC72E750B167}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DBDB568B-A140-481D-93C0-A4DD45E5873E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DBDB568B-A140-481D-93C0-A4DD45E5873E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DBDB568B-A140-481D-93C0-A4DD45E5873E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DBDB568B-A140-481D-93C0-A4DD45E5873E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9F7011E8-B3A4-416F-89B1-FE6999DFF3DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9F7011E8-B3A4-416F-89B1-FE6999DFF3DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9F7011E8-B3A4-416F-89B1-FE6999DFF3DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9F7011E8-B3A4-416F-89B1-FE6999DFF3DC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2A66A165-A548-47D9-922A-172E5320D3BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A66A165-A548-47D9-922A-172E5320D3BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2A66A165-A548-47D9-922A-172E5320D3BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2A66A165-A548-47D9-922A-172E5320D3BB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
